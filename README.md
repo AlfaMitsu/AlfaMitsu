@@ -1,0 +1,13 @@
+👋 Hi, I’m @AlfaMitsu
+
+👀 I’m interested in Flutter, Dart, algorithmic challenges, mathematics, and media and information literacy.
+
+🌱 I’m currently learning Go language.
+
+💞️ I’m looking to collaborate on projects related to Flutter, Dart, and algorithmic problem solving.
+
+📫 You can reach me on GitHub or via email at hadjiusopalfasheer@gmail.com
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I am obsessed with Sports, Esports, and Engineering
