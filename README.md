@@ -17,5 +17,23 @@
   **Mobile Development:** 
 
    [![My Skills](https://skillicons.dev/icons?i=dart,flutter,firebase,supabase)](https://skillicons.dev)
+   
+  **Web Frontend:** 
+  
+   [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,flutter,html,css,js,ts,react,supabase,go,postgres,postman,autocad,discord,bitbucket,firebase,git,github,instagram,twitter,gmail,linkedin)](https://skillicons.dev)
+   **Web Backend:** 
+  
+   [![My Skills](https://skillicons.dev/icons?i=go)](https://skillicons.dev)
+
+   **Database and Server:** 
+  
+   [![My Skills](https://skillicons.dev/icons?i=postgres,postman)](https://skillicons.dev)
+
+   **Tools:** 
+
+   [![My Skills](https://skillicons.dev/icons?i=github,git,bitbucket,discord,autocad)](https://skillicons.dev)
+
+   **Socials:** 
+
+   [![My Skills](https://skillicons.dev/icons?i=facebook,instagram,twitter,gmail,linkedin)](https://skillicons.dev)
