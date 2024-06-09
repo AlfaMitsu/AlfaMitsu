@@ -14,6 +14,12 @@
 
 **Languages and Tools:**
 
-**Mobile Development:**[![My Skills](https://skillicons.dev/icons?i=dart,flutter,firebase,supabase)](https://skillicons.dev)
+**Mobile Development:** 
+
+<div style="background-color: red; padding: 10px;">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,supabase" alt="My Skills" />
+  </a>
+</div>
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,flutter,html,css,js,ts,react,supabase,go,postgres,postman,autocad,discord,bitbucket,firebase,git,github,instagram,twitter,gmail,linkedin)](https://skillicons.dev)
