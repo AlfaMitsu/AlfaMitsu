@@ -20,7 +20,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,supabase" alt="My Skills" />
   </a>
-  <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/flutter_bloc_logo_full.png" alt="BLoC" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://i.imgur.com/YOUR_IMAGE_ID.png" alt="BLoC" width="50" height="50" style="margin: 10px;"/>
 </div>
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,flutter,html,css,js,ts,react,supabase,go,postgres,postman,autocad,discord,bitbucket,firebase,git,github,instagram,twitter,gmail,linkedin)](https://skillicons.dev)
