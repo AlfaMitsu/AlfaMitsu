@@ -36,4 +36,4 @@
 
    **Socials:** 
 
-   [![My Skills](https://skillicons.dev/icons?i=facebook,instagram,twitter,gmail,linkedin)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=fb,instagram,twitter,gmail,linkedin)](https://skillicons.dev)
