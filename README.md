@@ -14,6 +14,6 @@
 
 **Languages and Tools:**
 
-[![My Skills](https://skillicons.dev/icons?i=dart)](https://skillicons.dev)
+**Mobile Development:**[![My Skills](https://skillicons.dev/icons?i=dart,flutter,bloc,firebase,supabase)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,flutter,html,css,js,ts,react,supabase,go,postgres,postman,autocad,discord,bitbucket,firebase,git,github,instagram,twitter,gmail,linkedin)](https://skillicons.dev)
