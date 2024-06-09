@@ -16,11 +16,6 @@
 
 **Mobile Development:** 
 
-<div style="background-color: red; padding: 10px;">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,supabase" alt="My Skills" />
-  </a>
- <img src="https://bloclibrary.dev/_astro/bloc.DJLDGT9c_1KXLNj.svg" alt="BLoC" width="100" height="100">
-</div>
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,firebase,supabase)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,flutter,html,css,js,ts,react,supabase,go,postgres,postman,autocad,discord,bitbucket,firebase,git,github,instagram,twitter,gmail,linkedin)](https://skillicons.dev)
