@@ -12,12 +12,14 @@
 
 ⚡ Fun fact: I am obsessed with Sports, Esports, and Engineering
 
-**Programming Languages:**
+**Languages and Tools:**
 
-![Flutter](https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png)
-![Dart](https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png)
-![Go](https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg)
-![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)
-![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
-![TypeScript](https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Go" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" alt="TypeScript" width="50" height="50" style="margin: 10px;"/>
+</p>
