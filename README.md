@@ -14,4 +14,4 @@
 
 **Languages and Tools:**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,flutter,html,css,js,ts,react,supabase,go,postgres,postman,autocad,discord,bitbucket,firebase,git,github,instagram,twitter,gmail,linkedin)](https://skillicons.dev)
