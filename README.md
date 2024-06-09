@@ -2,7 +2,7 @@
 
 👀 I’m interested in Flutter, Dart, algorithmic challenges, mathematics, and media and information literacy.
 
-🌱 I’m currently learning Go language, and HTML CSS in the side
+🌱 I’m currently learning React in the side
 
 💞️ I’m looking to collaborate on projects related to Flutter, Dart, and algorithmic problem solving.
 
