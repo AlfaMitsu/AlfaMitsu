@@ -20,7 +20,7 @@
    
   **Web Frontend:** 
   
-   [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,astro,tailwind)](https://skillicons.dev)
 
    **Web Backend:** 
   
@@ -32,7 +32,7 @@
 
    **Tools:** 
 
-   [![My Skills](https://skillicons.dev/icons?i=github,git,bitbucket,discord,autocad)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=vscode,github,git,bitbucket,discord,autocad,figma)](https://skillicons.dev)
 
    **Socials:** 
 
